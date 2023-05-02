@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Omraniinc/static/css/main.97c07d6c.css",
+    "main.js": "/Omraniinc/static/js/main.dfd5c04a.js",
+    "static/js/787.cb57da5e.chunk.js": "/Omraniinc/static/js/787.cb57da5e.chunk.js",
+    "index.html": "/Omraniinc/index.html",
+    "main.97c07d6c.css.map": "/Omraniinc/static/css/main.97c07d6c.css.map",
+    "main.dfd5c04a.js.map": "/Omraniinc/static/js/main.dfd5c04a.js.map",
+    "787.cb57da5e.chunk.js.map": "/Omraniinc/static/js/787.cb57da5e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97c07d6c.css",
+    "static/js/main.dfd5c04a.js"
+  ]
+}
