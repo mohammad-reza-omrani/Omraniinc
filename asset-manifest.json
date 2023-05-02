@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/omraniinc1/static/css/main.073c9b0a.css",
-    "main.js": "/omraniinc1/static/js/main.fc6eeac1.js",
-    "static/js/787.8675c87a.chunk.js": "/omraniinc1/static/js/787.8675c87a.chunk.js",
-    "index.html": "/omraniinc1/index.html",
-    "main.073c9b0a.css.map": "/omraniinc1/static/css/main.073c9b0a.css.map",
-    "main.fc6eeac1.js.map": "/omraniinc1/static/js/main.fc6eeac1.js.map",
-    "787.8675c87a.chunk.js.map": "/omraniinc1/static/js/787.8675c87a.chunk.js.map"
+    "main.css": "/reactcounter/static/css/main.073c9b0a.css",
+    "main.js": "/reactcounter/static/js/main.e46ffa59.js",
+    "static/js/787.8675c87a.chunk.js": "/reactcounter/static/js/787.8675c87a.chunk.js",
+    "index.html": "/reactcounter/index.html",
+    "main.073c9b0a.css.map": "/reactcounter/static/css/main.073c9b0a.css.map",
+    "main.e46ffa59.js.map": "/reactcounter/static/js/main.e46ffa59.js.map",
+    "787.8675c87a.chunk.js.map": "/reactcounter/static/js/787.8675c87a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.fc6eeac1.js"
+    "static/js/main.e46ffa59.js"
   ]
 }
